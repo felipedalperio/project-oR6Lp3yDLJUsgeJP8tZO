@@ -1,0 +1,11 @@
+.container.mx-auto.flex.px-5.py-24.md\:flex-row.flex-col.items-center{
+    flex-direction: row-reverse;
+    display:flex;
+    gap:30px;
+}
+
+img.object-cover.object-center.rounded{
+    max-height: 400px;
+    width:100%;
+}
+
